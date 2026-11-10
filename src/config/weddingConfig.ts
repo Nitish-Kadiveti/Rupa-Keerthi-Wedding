@@ -74,6 +74,17 @@ export const weddingConfig: WeddingConfig = {
       icon: 'wedding',
     },
     {
+      id: 'haldi',
+      name: 'Haldi (Turmeric Ceremony)',
+      date: '2026-11-17',
+      time: '6:00 PM',
+      venue: 'Our Sweet Home',
+      address: 'Residence of Rupa Keerthi & Penchala Yeswanth',
+      dressCode: 'Yellow attire',
+      description: 'The Haldi ceremony where turmeric paste is applied to the couple for blessings and good fortune.',
+      icon: 'haldi',
+    },
+    {
       id: 'dinner',
       name: 'Dinner',
       date: '2026-11-18',
