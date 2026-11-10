@@ -1,0 +1,13 @@
+{
+  "name": "Dr. Rupa Keerthi Weds Penchala Yeswanth",
+  "short_name": "Y & R Wedding",
+  "description": "Wedding invitation and guest information hub for Penchala Yeswanth & Dr. Rupa Keerthi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF5E9",
+  "theme_color": "#5C0E1E",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
